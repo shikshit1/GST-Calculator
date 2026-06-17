@@ -41,5 +41,6 @@ To deploy:
 2. Vercel will automatically detect Vite and run `npm run build`.
 3. The output directory is automatically set to `dist`.
 
+live - https://gst-calculator-smoky-six.vercel.app/
 ## Built for Digital Heroes
 This application was tailored specifically for Digital Heroes, meeting all the mandatory requirements and UI expectations.
